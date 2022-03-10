@@ -1,6 +1,6 @@
 # Music
 
-## 🎛️ Hospitality mixes 🎚️
+## 🎛️ Hospitality 🎚️
 |Artist|Name|Length|Highlights|Link|thoughts|
 |------|----|------|----------|----|--------|
 |Sub Focus X Wilkinson|Corfe Castle, Dorset|1:03:31|<ul><li>pretty much all the Portals songs are hype</li><li>Flume - Rushing Back (Ekko & Sidetrack remix)</li><li>Camo & Krooked - Turn Up the Music (Pola & Bryson remix)</li></ul>|[YouTube](https://youtu.be/TRh-amAhOEw)|
@@ -11,7 +11,7 @@
 #### 🟣 Nu:Tone Spaces Tour 🟥
 |Name|Length|Highlights|Link|thoughts|
 |----|------|----------|----|--------|
-|Soulful|58:59|-|[YouTube](https://youtu.be/5Hjq12XTynQ)|-|
+|Soulful|58:59|<ul><li>London Grammar - Wait (piano chords mixed at [53:03](https://youtu.be/5Hjq12XTynQ?t=3183))</li></ul>|[YouTube](https://youtu.be/5Hjq12XTynQ)|great focus music. nice hits from Little Spaces album|
 |Classic|1:02:01|-|[YouTube](https://youtu.be/jzSDMImhX9k)|-|
 |Deeper|1:01:00|-|[YouTube](https://youtu.be/LAg27EBc9os)|-|
 |Soulful|58:22|-|[YouTube](https://youtu.be/5qPwcgigty8)|-|
@@ -39,12 +39,13 @@
 |16|Chrome Sparks|48:42|-|[YouTube](https://youtu.be/jDxMZ5pUatg) [SoundCloud](https://soundcloud.com/foreignfamily/chrome-sparks-intermission-broadcast-mix-016)|-|
 <br />
 
-## 🌌 Liquicity Yearmixes 🌌
-|Year|Length|Highlights|Link|thoughts|
-|----|------|----------|----|--------|
-|2019|1:24:25|Highlights|[YouTube](https://youtu.be/PiLCHmyAgEU)|thoughts|
-|2020|1:28:38|Highlights|[YouTube](https://youtu.be/-f1rfYe_sYU)|thoughts|
-|2021|1:24:26|Highlights|[YouTube](https://youtu.be/qHlMbBtx46Q)|thoughts|
+## 🌌 Liquicity 🌌
+|Artist|Name|Length|Highlights|Link|thoughts|
+|------|----|------|----------|----|--------|
+|Liquicity|Yearmix 2019|1:24:25|-|[YouTube](https://youtu.be/PiLCHmyAgEU)|thoughts|
+|Liquicity|Yearmix 2020|1:28:38|-|[YouTube](https://youtu.be/-f1rfYe_sYU)|thoughts|
+|Liquicity|Yearmix 2021|1:24:26|-|[YouTube](https://youtu.be/qHlMbBtx46Q)|thoughts|
+|Andromedik|Liquicity Festival Essentials|1:00:22|<ul><li>interesting take: Madeon - Miracle (DossyX remix) ([26:32](https://youtu.be/WlSbg8hKEV4?t=1592))</li><li>Apashe - Distance (Buunshin Remix) (a YWN rec from the beginning of 2022) ([53:42](https://youtu.be/WlSbg8hKEV4?t=3222))</li><li>Elderbrook - Numb (Andromedik bootleg)([55:09](https://youtu.be/WlSbg8hKEV4?t=3309) ([full SoundCloud](https://soundcloud.com/andromedik/elderbrook-numb-andromedik-bootleg))</li></ul>|[YouTube](https://youtu.be/WlSbg8hKEV4) [SoundCloud](https://soundcloud.com/liquicityevents/liquicity-festival-essentials-andromedik)|yo, im a huge Andromedik fan now, this guy was so hype for basically the entire set|
 <br />
 
 ## ✨ Others ✨
@@ -53,4 +54,4 @@
 |Porter Robinson|Secret Sky (2020)|-|-|[YouTube](https://youtu.be/4KGsgpFiswQ)|-|
 |Porter Robinson|Secret Sky (2021)|-|-|[YouTube](https://youtu.be/THjekE5p2aw)|-|
 |Madeon|Secret Sky (2020)|-|-|[YouTube](https://youtu.be/PSRdKi2GscM)|-|
-
+|Madeon|UC Riverside Spring Splash Festival|59:20|<ul><li>The Weeknd - Blinding Lights ([1:19](https://youtu.be/avKqOlZCirc?t=79))</li></ul>|amazing set. visuals are unbelievable: he threw his signature rainbow craziness on top of Interstella 5555 clips when he mixed One More Time|
