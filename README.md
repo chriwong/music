@@ -29,9 +29,9 @@
 |6|Robotaki|56:45|-|[YouTube](https://youtu.be/sYHbC0w4_ZY) [SoundCloud](https://soundcloud.com/foreignfamily/robotaki-intermission-broadcast-mix-006)|-|
 |7|Whethan|50:36|-|[SoundCloud](https://soundcloud.com/foreignfamily/whethan-intermission-broadcast-mix-007)|-|
 |8|Mild Minds|1:00:00|<ul><li>very first song is pretty cool</li><li>Nathan Micay - Ecstasy Is On Maple Mountain ([3:58](https://youtu.be/34B_wiRPiKo?t=238))</li></ul>|[YouTube](https://youtu.be/34B_wiRPiKo) [SoundCloud](https://soundcloud.com/foreignfamily/mild-minds-intermission-broadcast-mix-008)|dang 40 min went by like nothing. easy listenin'|
-|9|ford.|43:38|-|[YouTube](https://youtu.be/dco2Z09mpAc) [SoundCloud](https://soundcloud.com/foreignfamily/ford-intermission-broadcast-mix-009)|-|
-|10|Tycho|59:11|-|[YouTube](https://youtu.be/jyw44v_l5SI) [SoundCloud](https://soundcloud.com/foreignfamily/tycho-intermission-broadcast-mix-010)|-|
-|11|Hayden James|56:32|-|[YouTube](https://youtu.be/-LG2Iqemm18) [SoundCloud](https://soundcloud.com/foreignfamily/hayden-james-intermission-broadcast-mix-11)|-|
+|9|ford.|43:38|-|[YouTube](https://youtu.be/dco2Z09mpAc) [SoundCloud](https://soundcloud.com/foreignfamily/ford-intermission-broadcast-mix-009)|low-intensity set, few vocals (think Tycho/Pretty Lights). 40 minutes of in-the-zone|
+|10|Tycho|59:11|<ul><li> Tycho – Pink & Blue (RAC Mix) ([7:45](https://soundcloud.com/foreignfamily/tycho-intermission-broadcast-mix-010#t=7:45))</li><li>Easy (Mild Minds remix) ([19:39](https://soundcloud.com/foreignfamily/tycho-intermission-broadcast-mix-010#t=19:39))</li></ul>|[YouTube](https://youtu.be/jyw44v_l5SI) [SoundCloud](https://soundcloud.com/foreignfamily/tycho-intermission-broadcast-mix-010)|in my mind, one of, if not the first, pioneers of chill ambient electronic. he didn't fail to deliver. the last 3-4 songs are like a seamless mix into a great finale with The Knocks & MUNA - Bodies|
+|11|Hayden James|56:32|<ul></ul>|[YouTube](https://youtu.be/-LG2Iqemm18) [SoundCloud](https://soundcloud.com/foreignfamily/hayden-james-intermission-broadcast-mix-11)|-|
 |12|BRONSON|57:27|-|[YouTube](https://youtu.be/kewLttUsnIw) [SoundCloud](https://soundcloud.com/foreignfamily/bronson-intermission-broadcast-mix-012)||
 |13|Gilligan Moss|59:02|-|[YouTube](https://youtu.be/wyWNX4gwr6A) [SoundCloud](https://soundcloud.com/foreignfamily/gilligan-moss-broadcast-transmission)|-|
 |14|TSHA|59:18|-|[YouTube](https://youtu.be/jjdYvFQu__o) [SoundCloud](https://soundcloud.com/foreignfamily/tsha-intermission-broadcast-mix-014)|-|
