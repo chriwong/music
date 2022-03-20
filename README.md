@@ -4,8 +4,10 @@
 |Artist|Name|Length|Highlights|Link|thoughts|
 |------|----|------|----------|----|--------|
 |Sub Focus X Wilkinson|Corfe Castle, Dorset|1:03:31|<ul><li>pretty much all the Portals songs are hype</li><li>Flume - Rushing Back (Ekko & Sidetrack remix)</li><li>Camo & Krooked - Turn Up the Music (Pola & Bryson remix)</li></ul>|[YouTube](https://youtu.be/TRh-amAhOEw)|
-|Camo & Krooked|UKF On Air in the Alps|-|-|[YouTube](https://youtu.be/47i5VIQDnJQ)|-|
+|Camo & Krooked|UKF On Air: in the Alps|-|-|[YouTube](https://youtu.be/47i5VIQDnJQ)|-|
 |Netsky|Hospitality On The Beach 2020|-|-|[YouTube](https://youtu.be/iYnrdimfB5U)|-|
+|Fred V|UKF On Air: Fred V presents Radiate|1:19:19|Highlights|[YouTube](https://youtu.be/tmFC7TEM8yE)|thoughts|
+
 <br />
 
 #### 🟣 Nu:Tone Spaces Tour 🟥
@@ -32,7 +34,7 @@
 |9|ford.|43:38|-|[YouTube](https://youtu.be/dco2Z09mpAc) [SoundCloud](https://soundcloud.com/foreignfamily/ford-intermission-broadcast-mix-009)|low-intensity set, few vocals (think Tycho/Pretty Lights). 40 minutes of in-the-zone|
 |10|Tycho|59:11|<ul><li> Tycho – Pink & Blue (RAC Mix) ([7:45](https://soundcloud.com/foreignfamily/tycho-intermission-broadcast-mix-010#t=7:45))</li><li>Easy (Mild Minds remix) ([19:39](https://soundcloud.com/foreignfamily/tycho-intermission-broadcast-mix-010#t=19:39))</li></ul>|[YouTube](https://youtu.be/jyw44v_l5SI) [SoundCloud](https://soundcloud.com/foreignfamily/tycho-intermission-broadcast-mix-010)|in my mind, one of, if not the first, pioneers of chill ambient electronic. he didn't fail to deliver. the last 3-4 songs are like a seamless mix into a great finale with The Knocks & MUNA - Bodies|
 |11|Hayden James|56:32|<ul></ul>|[YouTube](https://youtu.be/-LG2Iqemm18) [SoundCloud](https://soundcloud.com/foreignfamily/hayden-james-intermission-broadcast-mix-11)|-|
-|12|BRONSON|57:27|-|[YouTube](https://youtu.be/kewLttUsnIw) [SoundCloud](https://soundcloud.com/foreignfamily/bronson-intermission-broadcast-mix-012)||
+|12|BRONSON|57:27|<ul><li>if i could only eat one food for the rest of my life, it would be HEART ATTACK. if a magic genie in a bottle granted me three wishes, they would HEART ATTACK, KNOW ME, and HEART ATTACK. my firstborn son will be named HEART and my firstborn daughter ATTACK.</li></ul>|[YouTube](https://youtu.be/kewLttUsnIw) [SoundCloud](https://soundcloud.com/foreignfamily/bronson-intermission-broadcast-mix-012)|ok actually not a big fan of whatever else they mixed... BRONSON tracks are 11/10 obviously, but the rest is just ok|
 |13|Gilligan Moss|59:02|-|[YouTube](https://youtu.be/wyWNX4gwr6A) [SoundCloud](https://soundcloud.com/foreignfamily/gilligan-moss-broadcast-transmission)|-|
 |14|TSHA|59:18|-|[YouTube](https://youtu.be/jjdYvFQu__o) [SoundCloud](https://soundcloud.com/foreignfamily/tsha-intermission-broadcast-mix-014)|-|
 |15|Kasbo|1:04:29|-|[YouTube](https://youtu.be/8wuTt7sjQag) [SoundCloud](https://soundcloud.com/foreignfamily/kasbo-intermission-broadcast-mix-015)||
@@ -42,9 +44,9 @@
 ## 🌌 Liquicity 🌌
 |Artist|Name|Length|Highlights|Link|thoughts|
 |------|----|------|----------|----|--------|
-|Liquicity|Yearmix 2019|1:24:25|-|[YouTube](https://youtu.be/PiLCHmyAgEU)|thoughts|
-|Liquicity|Yearmix 2020|1:28:38|-|[YouTube](https://youtu.be/-f1rfYe_sYU)|thoughts|
-|Liquicity|Yearmix 2021|1:24:26|-|[YouTube](https://youtu.be/qHlMbBtx46Q)|thoughts|
+|Liquicity|Yearmix 2019|1:24:25|-|[YouTube](https://youtu.be/PiLCHmyAgEU)|-|
+|Liquicity|Yearmix 2020|1:28:38|-|[YouTube](https://youtu.be/-f1rfYe_sYU)|-|
+|Liquicity|Yearmix 2021|1:24:26|-|[YouTube](https://youtu.be/qHlMbBtx46Q)|-|
 |Andromedik|Liquicity Festival Essentials|1:00:22|<ul><li>interesting take: Madeon - Miracle (DossyX remix) ([26:32](https://youtu.be/WlSbg8hKEV4?t=1592))</li><li>Apashe - Distance (Buunshin Remix) (a YWN rec from the beginning of 2022) ([53:42](https://youtu.be/WlSbg8hKEV4?t=3222))</li><li>Elderbrook - Numb (Andromedik bootleg)([55:09](https://youtu.be/WlSbg8hKEV4?t=3309) ([full SoundCloud](https://soundcloud.com/andromedik/elderbrook-numb-andromedik-bootleg))</li></ul>|[YouTube](https://youtu.be/WlSbg8hKEV4) [SoundCloud](https://soundcloud.com/liquicityevents/liquicity-festival-essentials-andromedik)|yo, im a huge Andromedik fan now, this guy was so hype for basically the entire set|
 <br />
 
@@ -55,3 +57,12 @@
 |Porter Robinson|Secret Sky (2021)|-|-|[YouTube](https://youtu.be/THjekE5p2aw)|-|
 |Madeon|Secret Sky (2020)|-|-|[YouTube](https://youtu.be/PSRdKi2GscM)|-|
 |Madeon|UC Riverside Spring Splash Festival|59:20|<ul><li>The Weeknd - Blinding Lights ([1:19](https://youtu.be/avKqOlZCirc?t=79))</li></ul>|amazing set. visuals are unbelievable: he threw his signature rainbow craziness on top of Interstella 5555 clips when he mixed One More Time|
+|Medasin|IRENE 0.5|29:08|the intro song|[SoundCloud](https://soundcloud.com/officialmedasin/irene-full-ep-mix)|from back when Josh was super big into Medasin. this unfinished mix of what would become Irene and RIPPLS is better than either one|
+|Louis The Child|Tito's Made To Order Malibu DJ Set|43:50|Highlights|[YouTube (skipped to 1:40)](https://youtu.be/WNMbTO7NCbw?t=100)|i think they mix madeon|
+
+
+## 📻 radio.garden 🌍
+|Station|Location|Genre(s)|Link|thoughts|
+|-------|--------|--------|----|--------|
+|Noods|Bristol, UK|varied|[Radio Garden: Noods Radio](http://radio.garden/listen/noods-radio/TdAjNy_3)<br />[noodsradio.com](https://noodsradio.com/)|-|
+|Operator Radio|Rotterdam, Netherlands|electronic, varied|[Radio Garden: Operator Radio](http://radio.garden/listen/operator-radio/8Ls6E7wH)<br />[operator-radio.com](https://operator-radio.com/)|-|
