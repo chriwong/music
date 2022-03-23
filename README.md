@@ -6,9 +6,10 @@
 |Sub Focus X Wilkinson|Corfe Castle, Dorset|1:03:31|<ul><li>pretty much all the Portals songs are hype</li><li>Flume - Rushing Back (Ekko & Sidetrack remix)</li><li>Camo & Krooked - Turn Up the Music (Pola & Bryson remix)</li></ul>|[YouTube](https://youtu.be/TRh-amAhOEw)|
 |Camo & Krooked|UKF On Air: in the Alps|-|-|[YouTube](https://youtu.be/47i5VIQDnJQ)|-|
 |Netsky|Hospitality On The Beach 2020|-|-|[YouTube](https://youtu.be/iYnrdimfB5U)|-|
-|Fred V|UKF On Air: Fred V presents Radiate|1:19:19|Highlights|[YouTube](https://youtu.be/tmFC7TEM8yE)|thoughts|
-
+|Fred V|UKF On Air: Fred V presents 'Radiate'|1:19:19|Highlights|[YouTube](https://youtu.be/tmFC7TEM8yE)|thoughts|
+|Netsky|UKF On Air: Netsky presents 'Second Nature' in the Antwerp Zoo|40:41|Highlights|[YouTube](https://youtu.be/UZkrxzT9h_Y)|thoughts|
 <br />
+
 
 #### 🟣 Nu:Tone Spaces Tour 🟥
 |Name|Length|Highlights|Link|thoughts|
@@ -18,6 +19,7 @@
 |Deeper|1:01:00|-|[YouTube](https://youtu.be/LAg27EBc9os)|-|
 |Soulful|58:22|-|[YouTube](https://youtu.be/5qPwcgigty8)|-|
 <br />
+
 
 ## 🖤 Foreign Family Collective Intermission Broadcast ☄️
 ### [Full SoundCloud Playlist](https://soundcloud.com/foreignfamily/sets/ffc-intermission-broadcast-mix)
@@ -41,6 +43,8 @@
 |16|Chrome Sparks|48:42|-|[YouTube](https://youtu.be/jDxMZ5pUatg) [SoundCloud](https://soundcloud.com/foreignfamily/chrome-sparks-intermission-broadcast-mix-016)|-|
 <br />
 
+
+
 ## 🌌 Liquicity 🌌
 |Artist|Name|Length|Highlights|Link|thoughts|
 |------|----|------|----------|----|--------|
@@ -49,6 +53,7 @@
 |Liquicity|Yearmix 2021|1:24:26|-|[YouTube](https://youtu.be/qHlMbBtx46Q)|-|
 |Andromedik|Liquicity Festival Essentials|1:00:22|<ul><li>interesting take: Madeon - Miracle (DossyX remix) ([26:32](https://youtu.be/WlSbg8hKEV4?t=1592))</li><li>Apashe - Distance (Buunshin Remix) (a YWN rec from the beginning of 2022) ([53:42](https://youtu.be/WlSbg8hKEV4?t=3222))</li><li>Elderbrook - Numb (Andromedik bootleg)([55:09](https://youtu.be/WlSbg8hKEV4?t=3309) ([full SoundCloud](https://soundcloud.com/andromedik/elderbrook-numb-andromedik-bootleg))</li></ul>|[YouTube](https://youtu.be/WlSbg8hKEV4) [SoundCloud](https://soundcloud.com/liquicityevents/liquicity-festival-essentials-andromedik)|yo, im a huge Andromedik fan now, this guy was so hype for basically the entire set|
 <br />
+
 
 ## ✨ Others ✨
 |Artist|Name|Length|Highlights|Link|thoughts|
@@ -59,6 +64,7 @@
 |Madeon|UC Riverside Spring Splash Festival|59:20|<ul><li>The Weeknd - Blinding Lights ([1:19](https://youtu.be/avKqOlZCirc?t=79))</li></ul>|amazing set. visuals are unbelievable: he threw his signature rainbow craziness on top of Interstella 5555 clips when he mixed One More Time|
 |Medasin|IRENE 0.5|29:08|the intro song|[SoundCloud](https://soundcloud.com/officialmedasin/irene-full-ep-mix)|from back when Josh was super big into Medasin. this unfinished mix of what would become Irene and RIPPLS is better than either one|
 |Louis The Child|Tito's Made To Order Malibu DJ Set|43:50|Highlights|[YouTube (skipped to 1:40)](https://youtu.be/WNMbTO7NCbw?t=100)|i think they mix madeon|
+|BRONSON|BBC Radio 1's Essential Mix|2:00:00|Highlights|[SoundCloud](https://soundcloud.com/ryandubbau/bbc-radio-1s-essential-mix-bronson)|thoughts|
 
 
 ## 📻 radio.garden 🌍
