@@ -11,7 +11,7 @@
 <br />
 
 
-#### 🟣 Nu:Tone Spaces Tour 🟥
+### 🟣 Nu:Tone Spaces Tour 🟥
 |Name|Length|Highlights|Link|thoughts|
 |----|------|----------|----|--------|
 |Soulful|58:59|<ul><li>London Grammar - Wait (piano chords mixed at [53:03](https://youtu.be/5Hjq12XTynQ?t=3183))</li></ul>|[YouTube](https://youtu.be/5Hjq12XTynQ)|great focus music. nice hits from Little Spaces album|
@@ -24,7 +24,7 @@
 ## 🖤 Foreign Family Collective Intermission Broadcast ☄️
 ### [Full SoundCloud Playlist](https://soundcloud.com/foreignfamily/sets/ffc-intermission-broadcast-mix)
 |#|Artist|Length|Highlights|Link|thoughts|
-|-|-|-|-|-|-|
+|-|------|------|----------|----|--------|
 |1|ODESZA|1:00:43|-|[YouTube](https://youtu.be/ljPDtDIrfrE) [SoundCloud](https://soundcloud.com/odesza/nosleep-mix12)|nice|
 |2|chet porter|46:02|-|[SoundCloud](https://soundcloud.com/foreignfamily/chet-porter-intermission-broadcast-002)|
 |3|TOKiMONSTA|56:51|<ul><li>Gigamesh - Feral Youth (muted, groovy, synth chords almost like a pan flute)</li></ul>|[YouTube](https://youtu.be/8RGAbtjw4jo) [SoundCloud](https://soundcloud.com/foreignfamily/tokimonsta-intermission-broadcast-mix-003)|just (T)ok(iMONSTA)|
@@ -44,7 +44,6 @@
 <br />
 
 
-
 ## 🌌 Liquicity 🌌
 |Artist|Name|Length|Highlights|Link|thoughts|
 |------|----|------|----------|----|--------|
@@ -52,6 +51,15 @@
 |Liquicity|Yearmix 2020|1:28:38|-|[YouTube](https://youtu.be/-f1rfYe_sYU)|-|
 |Liquicity|Yearmix 2021|1:24:26|-|[YouTube](https://youtu.be/qHlMbBtx46Q)|-|
 |Andromedik|Liquicity Festival Essentials|1:00:22|<ul><li>interesting take: Madeon - Miracle (DossyX remix) ([26:32](https://youtu.be/WlSbg8hKEV4?t=1592))</li><li>Apashe - Distance (Buunshin Remix) (a YWN rec from the beginning of 2022) ([53:42](https://youtu.be/WlSbg8hKEV4?t=3222))</li><li>Elderbrook - Numb (Andromedik bootleg)([55:09](https://youtu.be/WlSbg8hKEV4?t=3309) ([full SoundCloud](https://soundcloud.com/andromedik/elderbrook-numb-andromedik-bootleg))</li></ul>|[YouTube](https://youtu.be/WlSbg8hKEV4) [SoundCloud](https://soundcloud.com/liquicityevents/liquicity-festival-essentials-andromedik)|yo, im a huge Andromedik fan now, this guy was so hype for basically the entire set|
+<br />
+
+
+## 💙 Anjunadeep 💙
+|#|Length|Highlights|Link|thoughts|
+|-|------|----------|----|--------|
+|13|-|-|[YouTube]()|-|
+|12|-|-|-|-|
+|11|1:14:32 + 1:23:47 = 2:39:19|<ul><li>Braxton - Chiaroscuro ([51:27](https://youtu.be/-9BM6jGxW5Y?t=3087))</li></ul>|[YouTube continuous mix](https://youtu.be/-9BM6jGxW5Y) (great visuals)|-|
 <br />
 
 
@@ -66,6 +74,7 @@
 |Louis The Child|Tito's Made To Order Malibu DJ Set|43:50|Highlights|[YouTube (skipped to 1:40)](https://youtu.be/WNMbTO7NCbw?t=100)|i think they mix madeon|
 |BRONSON|BBC Radio 1's Essential Mix|2:00:00|Highlights|[SoundCloud](https://soundcloud.com/ryandubbau/bbc-radio-1s-essential-mix-bronson)|thoughts|
 |Kasbo|Cry / Dance 2|1:01:02|<ul><li>OTR, AuRa - Broken ([12:36](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2?#t=12:36))</li><li>i've never heard Fred again... before. i like Julie (Stay) ([19:03](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2#t=19:03))</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2)|not too far off from "heartbeats in an empty club". it actually has Lane 8 and Tourist|
+<br />
 
 
 ## 📻 radio.garden 🌍
@@ -73,6 +82,7 @@
 |-------|--------|--------|----|--------|
 |Noods|Bristol, UK|varied|[Radio Garden: Noods Radio](http://radio.garden/listen/noods-radio/TdAjNy_3)<br />[noodsradio.com](https://noodsradio.com/)|-|
 |Operator Radio|Rotterdam, Netherlands|electronic, varied|[Radio Garden: Operator Radio](http://radio.garden/listen/operator-radio/8Ls6E7wH)<br />[operator-radio.com](https://operator-radio.com/)|-|
+<br />
 
 
 ## 🎈 Louis The Child - Playground Radio 🌐
@@ -81,3 +91,13 @@
 |-------|-------------|----------|----|
 |1|Louis The Child - Shake Somethin'|<ul><li>Whethan, BROODS - Be Like You</li><li>Medasin remix of Post Malone</li><li>Flight Facilities - Stand Still (Wave Racer remix)</li></ul>|[SoundCloud](https://soundcloud.com/playground_radio/ep001)|
 |2||<ul><li></li></ul>|[SoundCloud](https://soundcloud.com/playground_radio/ep002)|
+<br />
+
+
+## Albums
+|Artist|Name|# Tracks|Highlights|Link|thoughts|
+|------|----|--------|----------|----|--------|
+|Alison Wonderland|Loner|12|<ul><li>Something Real</li></ul>|[Spotify](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0?si=dlluewTNT-KqIvARMhdo3g)|6/10 - I haven't listened to much Alison Wonderland, but my impression is this isn't her usual sound. Eyes Closed, Thirst, Cocaine, Fear of Dying aren't great. New Day, Forever, Bad Things, Fuck U Love U are like sad girl San Holo + harder drops (idk if San Holo has that kind of hard drop) which are decent/good.|
+|------|----|--------|----------|----|--------|
+|------|----|--------|----------|----|--------|
+|------|----|--------|----------|----|--------|
