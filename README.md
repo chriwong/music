@@ -82,6 +82,7 @@
 |-------|--------|--------|----|--------|
 |Noods|Bristol, UK|varied|[Radio Garden: Noods Radio](http://radio.garden/listen/noods-radio/TdAjNy_3)<br />[noodsradio.com](https://noodsradio.com/)|-|
 |Operator Radio|Rotterdam, Netherlands|electronic, varied|[Radio Garden: Operator Radio](http://radio.garden/listen/operator-radio/8Ls6E7wH)<br />[operator-radio.com](https://operator-radio.com/)|-|
+|Proton Radio|San Francisco, CA|electronic|[Radio Garden: Proton Radio](http://radio.garden/listen/proton-radio/BHrLn3ef)<br />[protonradio.com](https://www.protonradio.com/)|i really lucked out and heard a mix by Danny Lloyd ([SC](http://www.soundcloud.com/dannylloyd) and [Proton Radio page](https://www.protonradio.com/artists/5398/danny-lloyd/mixes)) which ends with an awesome mix of Totally Enormous Extinct Dinosaurs' Crosswalks by a guy named Audioglider that I can't find anywhere... :( Starts at 52:24 of the 2022-08-12 episode of his "[Elements](https://www.protonradio.com/shows/679/elements)" show at 52:24|
 <br />
 
 
