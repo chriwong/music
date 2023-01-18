@@ -74,6 +74,7 @@
 |Louis The Child|Tito's Made To Order Malibu DJ Set|43:50|Highlights|[YouTube (skipped to 1:40)](https://youtu.be/WNMbTO7NCbw?t=100)|i think they mix madeon|
 |BRONSON|BBC Radio 1's Essential Mix|2:00:00|Highlights|[SoundCloud](https://soundcloud.com/ryandubbau/bbc-radio-1s-essential-mix-bronson)|thoughts|
 |Kasbo|Cry / Dance 2|1:01:02|<ul><li>OTR, AuRa - Broken ([12:36](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2?#t=12:36))</li><li>i've never heard Fred again... before. i like Julie (Stay) ([19:03](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2#t=19:03))</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2)|not too far off from "heartbeats in an empty club". it actually has Lane 8 and Tourist|
+|Qrion|Qrion - DJ Set (Anjunadeep Japan Takeover)|59:13|<ul><li>Qrion - Your Love (Jordin Post & Qrion remix)([16:30](https://youtu.be/H4mbZCk_3fQ?t=990))</li></ul>|[Youtube](https://youtu.be/H4mbZCk_3fQ)|Quickly becoming a big fan. Her song Fireworks is always a hit|
 <br />
 
 
