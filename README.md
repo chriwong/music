@@ -39,7 +39,7 @@
 |12|BRONSON|57:27|<ul><li>if i could only eat one food for the rest of my life, it would be HEART ATTACK. if a magic genie in a bottle granted me three wishes, they would HEART ATTACK, KNOW ME, and HEART ATTACK. my firstborn son will be named HEART and my firstborn daughter ATTACK.</li></ul>|[YouTube](https://youtu.be/kewLttUsnIw) [SoundCloud](https://soundcloud.com/foreignfamily/bronson-intermission-broadcast-mix-012)|ok actually not a big fan of whatever else they mixed... BRONSON tracks are 11/10 obviously, but the rest is just ok|
 |13|Gilligan Moss|59:02|<ul><li>Fred Falke - 808 PM at the Beach ([27:40](https://soundcloud.com/foreignfamily/gilligan-moss-broadcast-transmissiont=27:40))</li><li>Lee's Last Dance ([55:30](https://soundcloud.com/foreignfamily/gilligan-moss-broadcast-transmission#t=55:30))</li></ul>|[YouTube](https://youtu.be/wyWNX4gwr6A) [SoundCloud](https://soundcloud.com/foreignfamily/gilligan-moss-broadcast-transmission)|groovy, retro-futurism, Maria Takeushi-esque beach vibin' tunes. quick tempo, just a little bit too fun for focusing|
 |14|TSHA|59:18|-|[YouTube](https://youtu.be/jjdYvFQu__o) [SoundCloud](https://soundcloud.com/foreignfamily/tsha-intermission-broadcast-mix-014)|-|
-|15|Kasbo|1:04:29|-|[YouTube](https://youtu.be/8wuTt7sjQag) [SoundCloud](https://soundcloud.com/foreignfamily/kasbo-intermission-broadcast-mix-015)||
+|15|Kasbo|1:04:29|-|[YouTube](https://youtu.be/8wuTt7sjQag) [SoundCloud](https://soundcloud.com/foreignfamily/kasbo-intermission-broadcast-mix-015)|He mixed Louis the Child's Better Not! 😭😭😭|
 |16|Chrome Sparks|48:42|-|[YouTube](https://youtu.be/jDxMZ5pUatg) [SoundCloud](https://soundcloud.com/foreignfamily/chrome-sparks-intermission-broadcast-mix-016)|-|
 <br />
 
@@ -73,8 +73,14 @@
 |Medasin|IRENE 0.5|29:08|the intro song|[SoundCloud](https://soundcloud.com/officialmedasin/irene-full-ep-mix)|from back when Josh was super big into Medasin. this unfinished mix of what would become Irene and RIPPLS is better than either one|
 |Louis The Child|Tito's Made To Order Malibu DJ Set|43:50|Highlights|[YouTube (skipped to 1:40)](https://youtu.be/WNMbTO7NCbw?t=100)|i think they mix madeon|
 |BRONSON|BBC Radio 1's Essential Mix|2:00:00|Highlights|[SoundCloud](https://soundcloud.com/ryandubbau/bbc-radio-1s-essential-mix-bronson)|thoughts|
-|Kasbo|Cry / Dance 2|1:01:02|<ul><li>OTR, AuRa - Broken ([12:36](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2?#t=12:36))</li><li>i've never heard Fred again... before. i like Julie (Stay) ([19:03](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2#t=19:03))</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2)|not too far off from "heartbeats in an empty club". it actually has Lane 8 and Tourist|
-|Qrion|Qrion - DJ Set (Anjunadeep Japan Takeover)|59:13|<ul><li>Qrion - Your Love (Jordin Post & Qrion remix)([16:30](https://youtu.be/H4mbZCk_3fQ?t=990))</li></ul>|[Youtube](https://youtu.be/H4mbZCk_3fQ)|Quickly becoming a big fan. Her song Fireworks is always a hit|
+|Kasbo|Cry / Dance Radio (Episode 1)|58:40|<ul><li>the last ~15min are all hits: Elderbrook, BRONSON, Kasbo, Porter, Fred again..</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/kasbo-cry-dance-radio-episode-1)|Great chill/soft/heartfelt mixes|
+|Kasbo|Cry / Dance Radio (Episode 2)|1:01:02|<ul><li>OTR, AuRa - Broken ([12:36](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2?#t=12:36))</li><li>i've never heard Fred again... before. i like Julie (Stay) ([19:03](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2#t=19:03))</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2)|not too far off from "heartbeats in an empty club". it actually has Lane 8 and Tourist|
+|Kasbo|Cry / Dance Radio (Episode 3)|55:38|<ul><li>Cri - From Me (Icarus Remix) (you've heard these vocal chops before [2:07](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-3?in=kasbomusic/sets/cry-dance-radio#t=2%3A07))</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-3)||
+|Qrion|Qrion - DJ Set (Anjunadeep Japan Takeover)|59:13|<ul><li>Qrion - Your Love (Jordin Post & Qrion remix)([16:30](https://youtu.be/H4mbZCk_3fQ?t=990))</li><li>Qrion - B4 Montreal([52:10](https://youtu.be/H4mbZCk_3fQ?t=3124))</li></ul>|[Youtube](https://youtu.be/H4mbZCk_3fQ)|Quickly becoming a big fan of this San-Francisco native!|
+|Madeon|Pop Culture|3:24|-|[YouTube](https://youtu.be/lTx3G6h2xyA)|GOAT|
+|Grafix & someone else|UKF on a Mountain: Grafix & somebody else|1:00:00|-|[Youtube](https://youtube.com)|pretty good|
+|Chet Porter|Digital Mirage 2020|43:28|<ul><li>Lorde - Ribs ([7:45](https://youtu.be/QmbeQJm3gEI?t=465))</li><li>Porter Robinson - Language ([18:50](https://youtu.be/QmbeQJm3gEI?t=1130))</li></ul>|[Youtube](https://www.youtube.com/watch?v=QmbeQJm3gEI)|Super fun pop-y set!|
+
 <br />
 
 

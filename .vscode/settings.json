@@ -1,22 +1,96 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#87fed9",
-        "activityBar.background": "#87fed9",
+        "activityBar.activeBackground": "#34fdfd",
+        "activityBar.background": "#34fdfd",
         "activityBar.foreground": "#15202b",
         "activityBar.inactiveForeground": "#15202b99",
-        "activityBarBadge.background": "#d781fe",
+        "activityBarBadge.background": "#fd61fd",
         "activityBarBadge.foreground": "#15202b",
         "commandCenter.border": "#15202b99",
-        "sash.hoverBorder": "#87fed9",
-        "statusBar.background": "#54fec9",
+        "sash.hoverBorder": "#34fdfd",
+        "statusBar.background": "#02fcfc",
         "statusBar.foreground": "#15202b",
-        "statusBarItem.hoverBackground": "#21feb9",
-        "statusBarItem.remoteBackground": "#54fec9",
+        "statusBarItem.hoverBackground": "#02c9c9",
+        "statusBarItem.remoteBackground": "#02fcfc",
         "statusBarItem.remoteForeground": "#15202b",
-        "titleBar.activeBackground": "#54fec9",
+        "titleBar.activeBackground": "#02fcfc",
         "titleBar.activeForeground": "#15202b",
-        "titleBar.inactiveBackground": "#54fec999",
+        "titleBar.inactiveBackground": "#02fcfc99",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#54fec9"
+    "peacock.color": "02fcfc",
+    "peacock.favoriteColors": [
+        {
+          "name": "default",
+          "value": "#007fff"
+        },
+        {
+          "name": "CrimsonCoding",
+          "value": "630020"
+        },
+        {
+          "name": "FiveTwoThree",
+          "value": "552233"
+        },
+        {
+          "name": "DesertSun",
+          "value": "#a83008"
+        },
+        {
+          "name": "FadedGold",
+          "value": "#958450"
+        },
+        {
+          "name": "SunshineYellow",
+          "value": "#f7ed31"
+        },
+        {
+          "name": "PearGreen",
+          "value": "bdf7bb"
+        },
+        {
+          "name": "EmeraldGreen",
+          "value": "0a4934"
+        },
+        {
+          "name": "MintyFresh",
+          "value": "#54fec9"
+        },
+        {
+          "name": "Aquamarine",
+          "value": "02fcfc"
+        },
+        {
+          "name": "SadBlue",
+          "value": "#010f4f"
+        },
+        {
+          "name": "MidnightPlum",
+          "value": "#2b006a"
+        },
+        {
+          "name": "ThistlePurple",
+          "value": "#69438b"
+        },
+        {
+          "name": "MelonPink",
+          "value": "#f943bd"
+        },
+        {
+          "name": "DinosaurPurple",
+          "value": "#5e166d"
+        },
+        {
+          "name": "MagickaMauve",
+          "value": "#660058"
+        },
+        {
+          "name": "StormyGrey",
+          "value": "1a2b3d"
+        },
+        {
+          "name": "CharcoalBlack",
+          "value": "171717"
+        }
+      ]
 }
