@@ -80,6 +80,8 @@
 |Madeon|Pop Culture|3:24|-|[YouTube](https://youtu.be/lTx3G6h2xyA)|GOAT|
 |Grafix & someone else|UKF on a Mountain: Grafix & somebody else|1:00:00|-|[Youtube](https://youtube.com)|pretty good|
 |Chet Porter|Digital Mirage 2020|43:28|<ul><li>Lorde - Ribs ([7:45](https://youtu.be/QmbeQJm3gEI?t=465))</li><li>Porter Robinson - Language ([18:50](https://youtu.be/QmbeQJm3gEI?t=1130))</li></ul>|[Youtube](https://www.youtube.com/watch?v=QmbeQJm3gEI)|Super fun pop-y set!|
+|Louis the Child|Black Marble 360|1:15:11|<ul><li>Fraxy - Self-Destruct ([16:20](https://youtu.be/6QeG44duVk0?t=980))</li><li>Louis the Child - Supersonic</li><li>DJ Fresh - Gold Dust (Marten Horger remix) ([55:22](https://youtu.be/6QeG44duVk0?t=3322))</li></ul>|[Youtube](https://youtu.be/6QeG44duVk0)|clubbin'!!|
+|Louis the Child|Throwback Set LIVE @ Alter Ego|1:29:38|<ul><li>Madeon - Icarus ([56:46](https://youtu.be/bNcggVefX7g?t=3406))</li><li>Rustie - Slasherr ([1:04:05](https://youtu.be/bNcggVefX7g?t=3845))</li></ul>|[Youtube](https://youtu.be/bNcggVefX7g)|hfs i'd listen to this just for the light show. the whole set is one continuous bangerrr|
 
 <br />
 
