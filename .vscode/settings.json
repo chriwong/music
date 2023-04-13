@@ -1,96 +1,502 @@
 {
-    "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#34fdfd",
-        "activityBar.background": "#34fdfd",
-        "activityBar.foreground": "#15202b",
-        "activityBar.inactiveForeground": "#15202b99",
-        "activityBarBadge.background": "#fd61fd",
-        "activityBarBadge.foreground": "#15202b",
-        "commandCenter.border": "#15202b99",
-        "sash.hoverBorder": "#34fdfd",
-        "statusBar.background": "#02fcfc",
-        "statusBar.foreground": "#15202b",
-        "statusBarItem.hoverBackground": "#02c9c9",
-        "statusBarItem.remoteBackground": "#02fcfc",
-        "statusBarItem.remoteForeground": "#15202b",
-        "titleBar.activeBackground": "#02fcfc",
-        "titleBar.activeForeground": "#15202b",
-        "titleBar.inactiveBackground": "#02fcfc99",
-        "titleBar.inactiveForeground": "#15202b99"
-    },
-    "peacock.color": "02fcfc",
-    "peacock.favoriteColors": [
-        {
-          "name": "default",
-          "value": "#007fff"
-        },
-        {
-          "name": "CrimsonCoding",
-          "value": "630020"
-        },
-        {
-          "name": "FiveTwoThree",
-          "value": "552233"
-        },
-        {
-          "name": "DesertSun",
-          "value": "#a83008"
-        },
-        {
-          "name": "FadedGold",
-          "value": "#958450"
-        },
-        {
-          "name": "SunshineYellow",
-          "value": "#f7ed31"
-        },
-        {
-          "name": "PearGreen",
-          "value": "bdf7bb"
-        },
-        {
-          "name": "EmeraldGreen",
-          "value": "0a4934"
-        },
-        {
-          "name": "MintyFresh",
-          "value": "#54fec9"
-        },
-        {
-          "name": "Aquamarine",
-          "value": "02fcfc"
-        },
-        {
-          "name": "SadBlue",
-          "value": "#010f4f"
-        },
-        {
-          "name": "MidnightPlum",
-          "value": "#2b006a"
-        },
-        {
-          "name": "ThistlePurple",
-          "value": "#69438b"
-        },
-        {
-          "name": "MelonPink",
-          "value": "#f943bd"
-        },
-        {
-          "name": "DinosaurPurple",
-          "value": "#5e166d"
-        },
-        {
-          "name": "MagickaMauve",
-          "value": "#660058"
-        },
-        {
-          "name": "StormyGrey",
-          "value": "1a2b3d"
-        },
-        {
-          "name": "CharcoalBlack",
-          "value": "171717"
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.codeLens": false,
+  "editor.foldingMaximumRegions": 2000,
+  "editor.quickSuggestionsDelay": 100,
+  "workbench.enableExperiments": false,
+  "workbench.startupEditor": "none",
+  "extensions.autoUpdate": false,
+  "telemetry.telemetryLevel": "off",
+  "php.suggest.basic": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.editor.untitled.hint": "hidden",
+  "editor.minimap.enabled": false,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.hover.delay": 500,
+  "scm.diffDecorationsGutterAction": "none",
+  "scm.diffDecorationsGutterVisibility": "hover",
+  "notebook.output.textLineLimit": 20,
+  "notebook.lineNumbers": "on",
+  "editor.fontSize": 16,
+  "liveshare.allowInvites": "all",
+  "liveshare.guestApprovalRequired": true,
+  "liveshare.increasedGuestLimit": false,
+  "liveshare.launcherClient": "visualStudioCode",
+  "liveshare.populateGitCoAuthors": "never",
+  "liveshare.showInStatusBar": "whileCollaborating",
+  "explorer.fileNesting.expand": false,
+  "github.gitAuthentication": false,
+  "git.autorefresh": false,
+  "git.enableStatusBarSync": false,
+  "npm.autoDetect": "off",
+  "javascript.format.semicolons": "insert",
+  "python.experiments.enabled": false,
+  "jupyter.experiments.enabled": false,
+  "[javascript]": {
+    "editor.tabSize": 2,
+    "editor.maxTokenizationLineLength": 2500
+  },
+  "[typescript]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[html]": {
+    "editor.suggest.insertMode": "replace",
+    "editor.tabSize": 2
+  },
+  "liveServer.settings.wait": 500,
+  "liveServer.settings.port": 42069,
+  "extensions.ignoreRecommendations": true,
+  "workbench.editor.revealIfOpen": true,
+  "[scss]": {
+    "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+  },
+  "search.quickOpen.includeHistory": false,
+  "workbench.commandPalette.history": 10,
+  "task.quickOpen.history": 10,
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootPath}",
+  "ng-c-ext.shutupMode": true,
+  "files.associations": {
+    "*.html": "html"
+  },
+  "editor.suggest.showDeprecated": false,
+  "editor.suggest.showIssues": false,
+  "vscode-angular-html.angularAndAngularMaterialElementTags": "#D7BA7D",
+  "vscode-angular-html.angularAnimationTriggerPrefix": "#D16969",
+  "vscode-angular-html.angularAnimationTriggerVariableName": "#B5CEA8",
+  "vscode-angular-html.angularBindingAttributeDelimiter": "#D16969",
+  "vscode-angular-html.angularEventHandlerName": "#B5CEA8",
+  "vscode-angular-html.angularExpression": "#D16969",
+  "vscode-angular-html.angularExpressionOperatorsAndNavigatorsColor": "#C586C0",
+  "vscode-angular-html.angularOneWayBindingAnimationTriggerDecorator": "#D7BA7D",
+  "vscode-angular-html.angularOneWayBindingFirstLevelDepth": "#B5CEA8",
+  "vscode-angular-html.angularOneWayBindingSecondLevelDepth": "#C586C0",
+  "vscode-angular-html.angularOneWayBindingThirdLevelDepth": "#D7BA7D",
+  "vscode-angular-html.angularPrefixedAttributesLetPrefix": "#569CD6",
+  "vscode-angular-html.angularPrefixedAttributesRefPrefix": "#D16969",
+  "vscode-angular-html.angularPrefixedAttributesRxjsSuffix": "#D7BA7D",
+  "vscode-angular-html.angularPrefixedAttributesVariableName": "#4EC9B0",
+  "vscode-angular-html.angularSyntaxSugarAttributesName": "#B5CEA8",
+  "vscode-angular-html.angularSyntaxSugarAttributesPrefix": "#D16969",
+  "vscode-angular-html.angularTemplateVariableName": "#B5CEA8",
+  "vscode-angular-html.angularTemplateVariablePrefix": "#D16969",
+  "vscode-angular-html.colorCustomizations": true,
+  "vscode-angular-html.dtdDoctypeElement": "#D7BA7D",
+  "vscode-angular-html.dtdDoctypeExclamation": "#C586C0",
+  "vscode-angular-html.dtdDoctypeQualifier": "#569CD6",
+  "vscode-angular-html.dtdDoctypeQuantifier": "#D16969",
+  "vscode-angular-html.htmlAttributeValueSeparator": "#D7BA7D",
+  "vscode-angular-html.htmlCustomTags": "#569CD6",
+  "vscode-angular-html.htmlDoctypeAttributes": "#4EC9B0",
+  "vscode-angular-html.htmlDoctypeElement": "#D7BA7D",
+  "vscode-angular-html.htmlDoctypeExclamation": "#C586C0",
+  "vscode-angular-html.htmlEntitiesAmpersand": "#C586C0",
+  "vscode-angular-html.htmlEntitiesSemicolon": "#C586C0",
+  "vscode-angular-html.htmlEventsAttributes": "#4EC9B0",
+  "vscode-angular-html.htmlGenericAttributesFollowedByParameter": "#4EC9B0",
+  "vscode-angular-html.htmlScriptAttributesLanguageIdentifier": "#B5CEA8",
+  "vscode-angular-html.htmlStyleAttributesLanguageIdentifier": "#B5CEA8",
+  "vscode-angular-html.htmlTags": "#569CD6",
+  "vscode-angular-html.primeNgElementTags": "#D7BA7D",
+  "vscode-angular-html.svgDAttributePathCommands": "#C586C0",
+  "vscode-angular-html.svgTags": "#569CD6",
+  "vscode-angular-html.xmlAttributeNamespaceDivider": "#D16969",
+  "vscode-angular-html.xmlAttributeNamespaceSuffix": "#C586C0",
+  "vscode-angular-html.xmlStylesheetAttributesLanguageIdentifier": "#B5CEA8",
+  "vscode-angular-html.xmlTagNamespaceDivider": "#D16969",
+  "vscode-angular-html.xmlTagNamespaceSuffix": "#C586C0",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "html-template.tag.html",
+        "settings": {
+          "foreground": "#569CD6"
         }
-      ]
+      },
+      {
+        "scope": "html-template.tag.custom",
+        "settings": {
+          "foreground": "#569CD6"
+        }
+      },
+      {
+        "scope": "html-template.ng.attribute.doctype",
+        "settings": {
+          "foreground": "#4EC9B0"
+        }
+      },
+      {
+        "scope": "html-template.ng.exclamation.doctype",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.doctype",
+        "settings": {
+          "foreground": "#D7BA7D"
+        }
+      },
+      {
+        "scope": "html-template.ng.entities.ampersand",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.entities.semicolon",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.generic",
+        "settings": {
+          "foreground": "#4EC9B0"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.events",
+        "settings": {
+          "foreground": "#4EC9B0"
+        }
+      },
+      {
+        "scope": "punctuation.separator.key-value.html-template.ng",
+        "settings": {
+          "foreground": "#D7BA7D"
+        }
+      },
+      {
+        "scope": "html-template.ng.style.language.identifier",
+        "settings": {
+          "foreground": "#B5CEA8"
+        }
+      },
+      {
+        "scope": "html-template.ng.script.language.identifier",
+        "settings": {
+          "foreground": "#B5CEA8"
+        }
+      },
+      {
+        "scope": "html-template.ng.interpolation.begin",
+        "settings": {
+          "foreground": "#D16969"
+        }
+      },
+      {
+        "scope": "html-template.ng.interpolation.end",
+        "settings": {
+          "foreground": "#D16969"
+        }
+      },
+      {
+        "scope": "html-template.ng.expression.operator.logical",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.expression.operator.compound",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.expression.operator.bitwise",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.expression.operator.comparison",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.expression.operator.relational",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.expression.operator.arithmetic",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.expression.operator.navigator",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "entity.name.tag.html.ng",
+        "settings": {
+          "foreground": "#D7BA7D"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.animationtrigger.prefix",
+        "settings": {
+          "foreground": "#D16969"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.animationtrigger.variable",
+        "settings": {
+          "foreground": "#B5CEA8"
+        }
+      },
+      {
+        "scope": "punctuation.definition.ng-binding-name.begin.html",
+        "settings": {
+          "foreground": "#D16969"
+        }
+      },
+      {
+        "scope": "punctuation.definition.ng-binding-name.end.html",
+        "settings": {
+          "foreground": "#D16969"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.event-handler",
+        "settings": {
+          "foreground": "#B5CEA8"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.input-binding.animationTrigger.prefix",
+        "settings": {
+          "foreground": "#D7BA7D"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.input-binding.first-level",
+        "settings": {
+          "foreground": "#B5CEA8"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.input-binding.second-level",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.input-binding.third-level",
+        "settings": {
+          "foreground": "#D7BA7D"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.prefix.let",
+        "settings": {
+          "foreground": "#569CD6"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.prefix.ref",
+        "settings": {
+          "foreground": "#D16969"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.suffix.name",
+        "settings": {
+          "foreground": "#4EC9B0"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.suffix.rxjs",
+        "settings": {
+          "foreground": "#D7BA7D"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.prefix.sugar",
+        "settings": {
+          "foreground": "#D16969"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.suffix.sugar",
+        "settings": {
+          "foreground": "#B5CEA8"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.template.prefix",
+        "settings": {
+          "foreground": "#D16969"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.template.variable",
+        "settings": {
+          "foreground": "#B5CEA8"
+        }
+      },
+      {
+        "scope": "entity.name.tag.html.primeng",
+        "settings": {
+          "foreground": "#D7BA7D"
+        }
+      },
+      {
+        "scope": "html-template.tag.svg",
+        "settings": {
+          "foreground": "#569CD6"
+        }
+      },
+      {
+        "scope": "html-template.ng.svg.path.commands",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.tag.colon",
+        "settings": {
+          "foreground": "#D16969"
+        }
+      },
+      {
+        "scope": "html-template.ng.tag.suffix",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.colon",
+        "settings": {
+          "foreground": "#D16969"
+        }
+      },
+      {
+        "scope": "html-template.ng.attributes.suffix",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.xmlStylesheet.language.identifier",
+        "settings": {
+          "foreground": "#B5CEA8"
+        }
+      },
+      {
+        "scope": "html-template.ng.exclamation.dtd",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "html-template.ng.dtd",
+        "settings": {
+          "foreground": "#D7BA7D"
+        }
+      },
+      {
+        "scope": "html-template.ng.qualifier.dtd",
+        "settings": {
+          "foreground": "#569CD6"
+        }
+      },
+      {
+        "scope": "html-template.ng.occurrence.dtd",
+        "settings": {
+          "foreground": "#D16969"
+        }
+      }
+    ]
+  },
+  "xmlTools.enforcePrettySelfClosingTagOnFormat": true,
+  "redhat.telemetry.enabled": false,
+  "xml.downloadExternalResources.enabled": false,
+  "peacock.favoriteColors": [
+    {
+      "name": "default",
+      "value": "#007fff"
+    },
+    {
+      "name": "CrimsonCoding",
+      "value": "630020"
+    },
+    {
+      "name": "FiveTwoThree",
+      "value": "552233"
+    },
+    {
+      "name": "DesertSun",
+      "value": "#a83008"
+    },
+    {
+      "name": "FadedGold",
+      "value": "#958450"
+    },
+    {
+      "name": "SunshineYellow",
+      "value": "#f7ed31"
+    },
+    {
+      "name": "PearGreen",
+      "value": "bdf7bb"
+    },
+    {
+      "name": "EmeraldGreen",
+      "value": "0a4934"
+    },
+    {
+      "name": "MintyFresh",
+      "value": "#54fec9"
+    },
+    {
+      "name": "Aquamarine",
+      "value": "02fcfc"
+    },
+    {
+      "name": "TiredTeal",
+      "value": "#0f6a62"
+    },
+    {
+      "name": "SadBlue",
+      "value": "#010f4f"
+    },
+    {
+      "name": "MidnightPlum",
+      "value": "#2b006a"
+    },
+    {
+      "name": "ThistlePurple",
+      "value": "#69438b"
+    },
+    {
+      "name": "MelonPink",
+      "value": "#f943bd"
+    },
+    {
+      "name": "DinosaurPurple",
+      "value": "#5e166d"
+    },
+    {
+      "name": "MagickaMauve",
+      "value": "#660058"
+    },
+    {
+      "name": "StormyGrey",
+      "value": "1a2b3d"
+    },
+    {
+      "name": "CharcoalBlack",
+      "value": "171717"
+    }
+  ]
 }
