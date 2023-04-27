@@ -109,6 +109,6 @@
 |Artist|Name|# Tracks|Highlights|Link|thoughts|
 |------|----|--------|----------|----|--------|
 |Alison Wonderland|Loner|12|<ul><li>Something Real</li></ul>|[Spotify](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0?si=dlluewTNT-KqIvARMhdo3g)|6/10 - I haven't listened to much Alison Wonderland, but my impression is this isn't her usual sound. Eyes Closed, Thirst, Cocaine, Fear of Dying aren't great. New Day, Forever, Bad Things, Fuck U Love U are like sad girl San Holo + harder drops (idk if San Holo has that kind of hard drop) which are decent/good.|
-|------|----|--------|----------|----|--------|
-|------|----|--------|----------|----|--------|
+|Andrew Bayer|Duality|20|Midnight, Equal, DNA, No Silence|[Spotify](https://open.spotify.com/album/3DEqRNQZS7gNDTzltgC3Cf?si=JF93F7SFQnKqt5x1dBTUHQ)]|7/10 - Andrew Bayer has such a unique sound/style. Jumping back and forth between atmospheric ambient soundscapes and 'hands-raised-in-love' dancy beats, these tracks somehow combine both industrial synths and hauntingly beautiful vocals in a way that isn't jarring. Not as good as In My Last Life (where every song is a *\*chef kiss\**), but the handful of highlights here are great.|
+|Andrew Bayer|Live from ABGT500|11|Midnight, Equal|[Spotify](https://open.spotify.com/album/0S4JU55q7sUSkgw4dwe4Tn?si=9NA296nSRo-bGsspww0CSg)|8/10 - Andrew Bayer is great at mixing himself. This is music festival dancy/jumpy while still keeping a sense of the original.|
 |------|----|--------|----------|----|--------|
