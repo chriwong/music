@@ -73,6 +73,9 @@
 |Medasin|IRENE 0.5|29:08|the intro song|[SoundCloud](https://soundcloud.com/officialmedasin/irene-full-ep-mix)|from back when Josh was super big into Medasin. this unfinished mix of what would become Irene and RIPPLS is better than either one|
 |Louis The Child|Tito's Made To Order Malibu DJ Set|43:50|Highlights|[YouTube (skipped to 1:40)](https://youtu.be/WNMbTO7NCbw?t=100)|i think they mix madeon|
 |BRONSON|BBC Radio 1's Essential Mix|2:00:00|Highlights|[SoundCloud](https://soundcloud.com/ryandubbau/bbc-radio-1s-essential-mix-bronson)|thoughts|
+|Kasbo|Cry / Dance Mix_01|54:56|<ul><li>Louis Futon x Lorde - unreleased x Royals</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/kasbo-cry-dance-vol-1?)|old stuff, still good. soft, but not really brain-off music. picks from Kasbo, Jai Wolf, ODESZA, Petit Biscuit, Medasin remixes, Tycho, etc.|
+|Kasbo|Cry / Dance Mix_02|52:04|<ul><li>Lorde - Ribs</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/cry-dance-mix_02)|same as above|
+|Kasbo|Cry / Dance Mix_03|1:03:14|<ul><li>-</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/kasbo-cry-dance-mix_03)|same as above|
 |Kasbo|Cry / Dance Radio (Episode 1)|58:40|<ul><li>the last ~15min are all hits: Elderbrook, BRONSON, Kasbo, Porter, Fred again..</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/kasbo-cry-dance-radio-episode-1)|Great chill/soft/heartfelt mixes|
 |Kasbo|Cry / Dance Radio (Episode 2)|1:01:02|<ul><li>OTR, AuRa - Broken ([12:36](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2?#t=12:36))</li><li>i've never heard Fred again... before. i like Julie (Stay) ([19:03](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2#t=19:03))</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2)|not too far off from "heartbeats in an empty club". it actually has Lane 8 and Tourist|
 |Kasbo|Cry / Dance Radio (Episode 3)|55:38|<ul><li>Cri - From Me (Icarus Remix) (you've heard these vocal chops before [2:07](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-3?in=kasbomusic/sets/cry-dance-radio#t=2%3A07))</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-3)||
@@ -82,6 +85,7 @@
 |Chet Porter|Digital Mirage 2020|43:28|<ul><li>Lorde - Ribs ([7:45](https://youtu.be/QmbeQJm3gEI?t=465))</li><li>Porter Robinson - Language ([18:50](https://youtu.be/QmbeQJm3gEI?t=1130))</li></ul>|[Youtube](https://www.youtube.com/watch?v=QmbeQJm3gEI)|Super fun pop-y set!|
 |Louis the Child|Black Marble 360|1:15:11|<ul><li>Fraxy - Self-Destruct ([16:20](https://youtu.be/6QeG44duVk0?t=980))</li><li>Louis the Child - Supersonic</li><li>DJ Fresh - Gold Dust (Marten Horger remix) ([55:22](https://youtu.be/6QeG44duVk0?t=3322))</li></ul>|[Youtube](https://youtu.be/6QeG44duVk0)|clubbin'!!|
 |Louis the Child|Throwback Set LIVE @ Alter Ego|1:29:38|<ul><li>Madeon - Icarus ([56:46](https://youtu.be/bNcggVefX7g?t=3406))</li><li>Rustie - Slasherr ([1:04:05](https://youtu.be/bNcggVefX7g?t=3845))</li></ul>|[Youtube](https://youtu.be/bNcggVefX7g)|hfs i'd listen to this just for the light show. the whole set is one continuous bangerrr|
+|Jai Wolf|The Cure to Lonliness Live at Red Rocks|1:19:00|<ul><li>ODESZA - Say My Name, feat. Zyra (Jai Wolf remix) ([15:23](https://youtu.be/fZqbBQmpGEA?t=923))</li><li>Jai Wolf - Gravity, feat. JMR</li><li>Jai Wolf - The World is Ours (with a lil bit of Chet Porter & Alison Wonderland - Bummed thrown in!)</li></ul>|https://youtu.be/fZqbBQmpGEA?t=88|im not a superfan, but i think i sleep on him a bit. tried to point out some other good tracks besides Indian Summer, Moon Rider, and Lose My Mind.|
 |Fred again..|Boiler Room|1:11:44|the set was mostly his stuff, no features of note|[Youtube](https://youtu.be/c0-hvjV2A5Y)|this is really good|
 
 <br />
@@ -112,3 +116,9 @@
 |Andrew Bayer|Duality|20|Midnight, Equal, DNA, No Silence|[Spotify](https://open.spotify.com/album/3DEqRNQZS7gNDTzltgC3Cf?si=JF93F7SFQnKqt5x1dBTUHQ)]|7/10 - Andrew Bayer has such a unique sound/style. Jumping back and forth between atmospheric ambient soundscapes and 'hands-raised-in-love' dancy beats, these tracks somehow combine both industrial synths and hauntingly beautiful vocals in a way that isn't jarring. Not as good as In My Last Life (where every song is a *\*chef kiss\**), but the handful of highlights here are great.|
 |Andrew Bayer|Live from ABGT500|11|Midnight, Equal|[Spotify](https://open.spotify.com/album/0S4JU55q7sUSkgw4dwe4Tn?si=9NA296nSRo-bGsspww0CSg)|8/10 - Andrew Bayer is great at mixing himself. This is music festival dancy/jumpy while still keeping a sense of the original.|
 |------|----|--------|----------|----|--------|
+
+
+## TODO
+[Louis the Child - Digital Mirage Playground Set (https://www.youtube.com/watch?v=VBk2vSPh9nE)](https://www.youtube.com/watch?v=VBk2vSPh9nE)
+[Rammor - summer memories (https://www.youtube.com/watch?v=O2qqSHFEIaY)](https://www.youtube.com/watch?v=O2qqSHFEIaY)
+[HANA - MELODIC AND PROGRESSIVE MIX WITH HANA (https://www.youtube.com/watch?v=2VC4PljZrs8)](https://www.youtube.com/watch?v=2VC4PljZrs8)
