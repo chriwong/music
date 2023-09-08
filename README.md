@@ -5,9 +5,9 @@
 |------|----|------|----------|----|--------|
 |Sub Focus X Wilkinson|Corfe Castle, Dorset|1:03:31|<ul><li>pretty much all the Portals songs are hype</li><li>Flume - Rushing Back (Ekko & Sidetrack remix)</li><li>Camo & Krooked - Turn Up the Music (Pola & Bryson remix)</li></ul>|[YouTube](https://youtu.be/TRh-amAhOEw)|
 |Camo & Krooked|UKF On Air: in the Alps|-|-|[YouTube](https://youtu.be/47i5VIQDnJQ)|-|
-|Netsky|Hospitality On The Beach 2020|-|-|[YouTube](https://youtu.be/iYnrdimfB5U)|-|
-|Fred V|UKF On Air: Fred V presents 'Radiate'|1:19:19|Highlights|[YouTube](https://youtu.be/tmFC7TEM8yE)|thoughts|
-|Netsky|UKF On Air: Netsky presents 'Second Nature' in the Antwerp Zoo|40:41|Highlights|[YouTube](https://youtu.be/UZkrxzT9h_Y)|thoughts|
+|Netsky|Hospitality On The Beach 2020|1:03:06|<ul><li>The Weeknd - Blinding Lights (Netsky remix)</li><li>Virtual Self - Ghost Voices</li><li>Jauz & Netsky - Higher (The Prototypes remix)</li><li>Porter Robinson - Something Comforting</li></ul>|[YouTube](https://youtu.be/iYnrdimfB5U)|-|
+|Fred V|UKF On Air: Fred V presents 'Radiate'|1:19:19|-|[YouTube](https://youtu.be/tmFC7TEM8yE)|thoughts|
+|Netsky|UKF On Air: Netsky presents 'Second Nature' in the Antwerp Zoo|40:41|-|[YouTube](https://youtu.be/UZkrxzT9h_Y)|thoughts|
 <br />
 
 
@@ -71,8 +71,8 @@
 |Madeon|Secret Sky (2020)|-|-|[YouTube](https://youtu.be/PSRdKi2GscM)|-|
 |Madeon|UC Riverside Spring Splash Festival|59:20|<ul><li>The Weeknd - Blinding Lights ([1:19](https://youtu.be/avKqOlZCirc?t=79))</li></ul>|amazing set. visuals are unbelievable: he threw his signature rainbow craziness on top of Interstella 5555 clips when he mixed One More Time|
 |Medasin|IRENE 0.5|29:08|the intro song|[SoundCloud](https://soundcloud.com/officialmedasin/irene-full-ep-mix)|from back when Josh was super big into Medasin. this unfinished mix of what would become Irene and RIPPLS is better than either one|
-|Louis The Child|Tito's Made To Order Malibu DJ Set|43:50|Highlights|[YouTube (skipped to 1:40)](https://youtu.be/WNMbTO7NCbw?t=100)|i think they mix madeon|
-|BRONSON|BBC Radio 1's Essential Mix|2:00:00|Highlights|[SoundCloud](https://soundcloud.com/ryandubbau/bbc-radio-1s-essential-mix-bronson)|thoughts|
+|Louis The Child|Tito's Made To Order Malibu DJ Set|43:50|-|[YouTube (skipped to 1:40)](https://youtu.be/WNMbTO7NCbw?t=100)|i think they mix madeon|
+|BRONSON|BBC Radio 1's Essential Mix|2:00:00|-|[SoundCloud](https://soundcloud.com/ryandubbau/bbc-radio-1s-essential-mix-bronson)|thoughts|
 |Kasbo|Cry / Dance Mix_01|54:56|<ul><li>Louis Futon x Lorde - unreleased x Royals</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/kasbo-cry-dance-vol-1?)|old stuff, still good. soft, but not really brain-off music. picks from Kasbo, Jai Wolf, ODESZA, Petit Biscuit, Medasin remixes, Tycho, etc.|
 |Kasbo|Cry / Dance Mix_02|52:04|<ul><li>Lorde - Ribs</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/cry-dance-mix_02)|same as above|
 |Kasbo|Cry / Dance Mix_03|1:03:14|<ul><li>-</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/kasbo-cry-dance-mix_03)|same as above|
@@ -80,13 +80,14 @@
 |Kasbo|Cry / Dance Radio (Episode 2)|1:01:02|<ul><li>OTR, AuRa - Broken ([12:36](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2?#t=12:36))</li><li>i've never heard Fred again... before. i like Julie (Stay) ([19:03](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2#t=19:03))</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-2)|not too far off from "heartbeats in an empty club". it actually has Lane 8 and Tourist|
 |Kasbo|Cry / Dance Radio (Episode 3)|55:38|<ul><li>Cri - From Me (Icarus Remix) (you've heard these vocal chops before [2:07](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-3?in=kasbomusic/sets/cry-dance-radio#t=2%3A07))</li></ul>|[SoundCloud](https://soundcloud.com/kasbomusic/cry-dance-radio-episode-3)||
 |Qrion|Qrion - DJ Set (Anjunadeep Japan Takeover)|59:13|<ul><li>Qrion - Your Love (Jordin Post & Qrion remix)([16:30](https://youtu.be/H4mbZCk_3fQ?t=990))</li><li>Qrion - B4 Montreal([52:10](https://youtu.be/H4mbZCk_3fQ?t=3124))</li></ul>|[Youtube](https://youtu.be/H4mbZCk_3fQ)|Quickly becoming a big fan of this San-Francisco native!|
-|Madeon|Pop Culture|3:24|-|[YouTube](https://youtu.be/lTx3G6h2xyA)|GOAT|
+|Madeon|Pop Culture|3:24|-|[YouTube](https://youtu.be/lTx3G6h2xyA)|thirty-nine songs in one career-launching minimix|
 |Grafix & someone else|UKF on a Mountain: Grafix & somebody else|1:00:00|-|[Youtube](https://youtube.com)|pretty good|
 |Chet Porter|Digital Mirage 2020|43:28|<ul><li>Lorde - Ribs ([7:45](https://youtu.be/QmbeQJm3gEI?t=465))</li><li>Porter Robinson - Language ([18:50](https://youtu.be/QmbeQJm3gEI?t=1130))</li></ul>|[Youtube](https://www.youtube.com/watch?v=QmbeQJm3gEI)|Super fun pop-y set!|
 |Louis the Child|Black Marble 360|1:15:11|<ul><li>Fraxy - Self-Destruct ([16:20](https://youtu.be/6QeG44duVk0?t=980))</li><li>Louis the Child - Supersonic</li><li>DJ Fresh - Gold Dust (Marten Horger remix) ([55:22](https://youtu.be/6QeG44duVk0?t=3322))</li></ul>|[Youtube](https://youtu.be/6QeG44duVk0)|clubbin'!!|
 |Louis the Child|Throwback Set LIVE @ Alter Ego|1:29:38|<ul><li>Madeon - Icarus ([56:46](https://youtu.be/bNcggVefX7g?t=3406))</li><li>Rustie - Slasherr ([1:04:05](https://youtu.be/bNcggVefX7g?t=3845))</li></ul>|[Youtube](https://youtu.be/bNcggVefX7g)|hfs i'd listen to this just for the light show. the whole set is one continuous bangerrr|
-|Jai Wolf|The Cure to Lonliness Live at Red Rocks|1:19:00|<ul><li>ODESZA - Say My Name, feat. Zyra (Jai Wolf remix) ([15:23](https://youtu.be/fZqbBQmpGEA?t=923))</li><li>Jai Wolf - Gravity, feat. JMR</li><li>Jai Wolf - The World is Ours (with a lil bit of Chet Porter & Alison Wonderland - Bummed thrown in!)</li></ul>|https://youtu.be/fZqbBQmpGEA?t=88|im not a superfan, but i think i sleep on him a bit. tried to point out some other good tracks besides Indian Summer, Moon Rider, and Lose My Mind.|
-|Fred again..|Boiler Room|1:11:44|the set was mostly his stuff, no features of note|[Youtube](https://youtu.be/c0-hvjV2A5Y)|this is really good|
+|Jai Wolf|The Cure to Lonliness Live at Red Rocks|1:19:00|<ul><li>ODESZA - Say My Name, feat. Zyra (Jai Wolf remix) ([15:23](https://youtu.be/fZqbBQmpGEA?t=923))</li><li>Jai Wolf - Gravity, feat. JMR</li><li>Jai Wolf - The World is Ours (with a lil bit of Chet Porter & Alison Wonderland - Bummed thrown in!)</li></ul>|[YouTube](https://youtu.be/fZqbBQmpGEA?t=88)|im not a superfan, but i think i sleep on him a bit. tried to point out some other good tracks besides Indian Summer, Moon Rider, and Lose My Mind.|
+|Fred again..|Boiler Room|1:11:44|u already know|[Youtube](https://youtu.be/c0-hvjV2A5Y)|absolute goat|
+|Four Tet|Boiler Room: Streaming from isolation|1:07:43|?? ([29:35](https://www.youtube.com/live/oXQi77eOdEY?si=d6FuCeasrSY-vOQH&t=1770))|[Youtube](https://youtu.be/c0-hvjV2A5Y)|good energetic study music. feel like i could head-bob to this in a club all night|
 
 <br />
 
@@ -94,14 +95,14 @@
 ## 📻 radio.garden 🌍
 |Station|Location|Genre(s)|Link|thoughts|
 |-------|--------|--------|----|--------|
-|Noods|Bristol, UK|varied|[Radio Garden: Noods Radio](http://radio.garden/listen/noods-radio/TdAjNy_3)<br />[noodsradio.com](https://noodsradio.com/)|-|
-|Operator Radio|Rotterdam, Netherlands|electronic, varied|[Radio Garden: Operator Radio](http://radio.garden/listen/operator-radio/8Ls6E7wH)<br />[operator-radio.com](https://operator-radio.com/)|-|
-|Proton Radio|San Francisco, CA|electronic|[Radio Garden: Proton Radio](http://radio.garden/listen/proton-radio/BHrLn3ef)<br />[protonradio.com](https://www.protonradio.com/)|i really lucked out and heard a mix by Danny Lloyd ([SC](http://www.soundcloud.com/dannylloyd) and [Proton Radio page](https://www.protonradio.com/artists/5398/danny-lloyd/mixes)) which ends with an awesome mix of Totally Enormous Extinct Dinosaurs' Crosswalks by a guy named Audioglider that I can't find anywhere... :( Starts at 52:24 of the 2022-08-12 episode of his "[Elements](https://www.protonradio.com/shows/679/elements)" show at 52:24|
+|Noods|Bristol, UK|varied|<ul><li>[Radio Garden](http://radio.garden/listen/noods-radio/TdAjNy_3)</li><li>[noodsradio.com](https://noodsradio.com/)</li></ul>|-|
+|Operator Radio|Rotterdam, Netherlands|electronic, varied|<ul><li>[Radio Garden](http://radio.garden/listen/operator-radio/8Ls6E7wH)</li><li>[operator-radio.com](https://operator-radio.com/)</li></ul>|-|
+|Proton Radio|San Francisco, CA|electronic|<ul><li>[Radio Garden](http://radio.garden/listen/proton-radio/BHrLn3ef)</li><li>[protonradio.com](https://www.protonradio.com/)</li></ul>|i really lucked out and heard a mix by Danny Lloyd ([SC](http://www.soundcloud.com/dannylloyd) and [Proton Radio page](https://www.protonradio.com/artists/5398/danny-lloyd/mixes)) which ends with an awesome mix of Totally Enormous Extinct Dinosaurs' Crosswalks by a guy named Audioglider that I can't find anywhere... :( Starts at 52:24 of the 2022-08-12 episode of his "[Elements](https://www.protonradio.com/shows/679/elements)" show at 52:24|
 <br />
 
 
 ## 🎈 Louis The Child - Playground Radio 🌐
-(full tracklists _with timestampas_ are in the SoundCloud description! 🙏)
+(full tracklists _with timestamps_ are in the SoundCloud description!! 🙏)
 |Episode|Weekend Track|Highlights|Link|
 |-------|-------------|----------|----|
 |1|Louis The Child - Shake Somethin'|<ul><li>Whethan, BROODS - Be Like You</li><li>Medasin remix of Post Malone</li><li>Flight Facilities - Stand Still (Wave Racer remix)</li></ul>|[SoundCloud](https://soundcloud.com/playground_radio/ep001)|
@@ -113,12 +114,20 @@
 |Artist|Name|# Tracks|Highlights|Link|thoughts|
 |------|----|--------|----------|----|--------|
 |Alison Wonderland|Loner|12|<ul><li>Something Real</li></ul>|[Spotify](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0?si=dlluewTNT-KqIvARMhdo3g)|6/10 - I haven't listened to much Alison Wonderland, but my impression is this isn't her usual sound. Eyes Closed, Thirst, Cocaine, Fear of Dying aren't great. New Day, Forever, Bad Things, Fuck U Love U are like sad girl San Holo + harder drops (idk if San Holo has that kind of hard drop) which are decent/good.|
-|Andrew Bayer|Duality|20|Midnight, Equal, DNA, No Silence|[Spotify](https://open.spotify.com/album/3DEqRNQZS7gNDTzltgC3Cf?si=JF93F7SFQnKqt5x1dBTUHQ)]|7/10 - Andrew Bayer has such a unique sound/style. Jumping back and forth between atmospheric ambient soundscapes and 'hands-raised-in-love' dancy beats, these tracks somehow combine both industrial synths and hauntingly beautiful vocals in a way that isn't jarring. Not as good as In My Last Life (where every song is a *\*chef kiss\**), but the handful of highlights here are great.|
+|Andrew Bayer|Duality|20|Midnight, Equal, DNA, No Silence|[Spotify](https://open.spotify.com/album/3DEqRNQZS7gNDTzltgC3Cf?si=JF93F7SFQnKqt5x1dBTUHQ)|7/10 - Andrew Bayer has such a unique sound/style. Jumping back and forth between atmospheric ambient soundscapes and 'hands-raised-in-love' dancy beats, these tracks somehow combine both industrial synths and hauntingly beautiful vocals in a way that isn't jarring. Not as good as In My Last Life (where every song is a *\*chef kiss\**), but the handful of highlights here are great.|
 |Andrew Bayer|Live from ABGT500|11|Midnight, Equal|[Spotify](https://open.spotify.com/album/0S4JU55q7sUSkgw4dwe4Tn?si=9NA296nSRo-bGsspww0CSg)|8/10 - Andrew Bayer is great at mixing himself. This is music festival dancy/jumpy while still keeping a sense of the original.|
-|------|----|--------|----------|----|--------|
+|Kendrick Lamar|To Pimp A Butterfly|16|-|[Spotify](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP?si=wJpcuZvNRfuoSoTySYWj9Q)|Finally listened to this last month. It's more than music - it's history, politics, storytelling, self-reflection, and more wrapped into one amazing work of art.|
+<br />
+
+
+## Songs
+|Artist|Name|Link|thoughts|
+|------|----|----|--------|
+|Sofi Tukker x LP Giobbi|Part Time Muse (unreleased)|[YouTube](https://youtu.be/l8bvhDyty-A?si=5yHvR37U5uM_jcv6)|get chiiills from those vocals|
+<br />
 
 
 ## TODO
-[Louis the Child - Digital Mirage Playground Set (https://www.youtube.com/watch?v=VBk2vSPh9nE)](https://www.youtube.com/watch?v=VBk2vSPh9nE)
-[Rammor - summer memories (https://www.youtube.com/watch?v=O2qqSHFEIaY)](https://www.youtube.com/watch?v=O2qqSHFEIaY)
-[HANA - MELODIC AND PROGRESSIVE MIX WITH HANA (https://www.youtube.com/watch?v=2VC4PljZrs8)](https://www.youtube.com/watch?v=2VC4PljZrs8)
+* [Louis the Child - Digital Mirage Playground Set (https://www.youtube.com/watch?v=VBk2vSPh9nE)](https://www.youtube.com/watch?v=VBk2vSPh9nE)
+* [Rammor - summer memories (https://www.youtube.com/watch?v=O2qqSHFEIaY)](https://www.youtube.com/watch?v=O2qqSHFEIaY)
+* [HANA - MELODIC AND PROGRESSIVE MIX WITH HANA (https://www.youtube.com/watch?v=2VC4PljZrs8)](https://www.youtube.com/watch?v=2VC4PljZrs8)
