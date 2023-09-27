@@ -1,7 +1,7 @@
 # Music
 
 ## 🎛️ Hospitality 🎚️
-|Artist|Name|Length|Highlights|Link|thoughts|
+|Artist|Name|Length|Highlights|[Link](#)|thoughts|
 |------|----|------|----------|----|--------|
 |Sub Focus X Wilkinson|Corfe Castle, Dorset|1:03:31|<ul><li>pretty much all the Portals songs are hype</li><li>Flume - Rushing Back (Ekko & Sidetrack remix)</li><li>Camo & Krooked - Turn Up the Music (Pola & Bryson remix)</li></ul>|[YouTube](https://youtu.be/TRh-amAhOEw)|
 |Camo & Krooked|UKF On Air: in the Alps|-|-|[YouTube](https://youtu.be/47i5VIQDnJQ)|-|
@@ -12,7 +12,7 @@
 
 
 ### 🟣 Nu:Tone Spaces Tour 🟥
-|Name|Length|Highlights|Link|thoughts|
+|Name|Length|Highlights|[Link](#)|thoughts|
 |----|------|----------|----|--------|
 |Soulful|58:59|<ul><li>London Grammar - Wait (piano chords mixed at [53:03](https://youtu.be/5Hjq12XTynQ?t=3183))</li></ul>|[YouTube](https://youtu.be/5Hjq12XTynQ)|great focus music. nice hits from Little Spaces album|
 |Classic|1:02:01|-|[YouTube](https://youtu.be/jzSDMImhX9k)|-|
@@ -23,7 +23,7 @@
 
 ## 🖤 Foreign Family Collective Intermission Broadcast ☄️
 ### [Full SoundCloud Playlist](https://soundcloud.com/foreignfamily/sets/ffc-intermission-broadcast-mix)
-|#|Artist|Length|Highlights|Link|thoughts|
+|#|Artist|Length|Highlights|[Link](#)|thoughts|
 |-|------|------|----------|----|--------|
 |1|ODESZA|1:00:43|-|[YouTube](https://youtu.be/ljPDtDIrfrE) [SoundCloud](https://soundcloud.com/odesza/nosleep-mix12)|nice|
 |2|chet porter|46:02|-|[SoundCloud](https://soundcloud.com/foreignfamily/chet-porter-intermission-broadcast-002)|
@@ -45,7 +45,7 @@
 
 
 ## 🌌 Liquicity 🌌
-|Artist|Name|Length|Highlights|Link|thoughts|
+|Artist|Name|Length|Highlights|[Link](#)|thoughts|
 |------|----|------|----------|----|--------|
 |Liquicity|Yearmix 2019|1:24:25|-|[YouTube](https://youtu.be/PiLCHmyAgEU)|-|
 |Liquicity|Yearmix 2020|1:28:38|-|[YouTube](https://youtu.be/-f1rfYe_sYU)|-|
@@ -55,7 +55,7 @@
 
 
 ## 💙 Anjunadeep 💙
-|#|Length|Highlights|Link|thoughts|
+|#|Length|Highlights|[Link](#)|thoughts|
 |-|------|----------|----|--------|
 |13|-|-|[YouTube]()|-|
 |12|-|-|-|-|
@@ -64,7 +64,7 @@
 
 
 ## ✨ Others ✨
-|Artist|Name|Length|Highlights|Link|thoughts|
+|Artist|Name|Length|Highlights|[Link](#)|thoughts|
 |------|----|------|----------|----|--------|
 |Porter Robinson|Secret Sky (2020)|-|-|[YouTube](https://youtu.be/4KGsgpFiswQ)|-|
 |Porter Robinson|Secret Sky (2021)|-|-|[YouTube](https://youtu.be/THjekE5p2aw)|-|
@@ -88,12 +88,12 @@
 |Jai Wolf|The Cure to Lonliness Live at Red Rocks|1:19:00|<ul><li>ODESZA - Say My Name, feat. Zyra (Jai Wolf remix) ([15:23](https://youtu.be/fZqbBQmpGEA?t=923))</li><li>Jai Wolf - Gravity, feat. JMR</li><li>Jai Wolf - The World is Ours (with a lil bit of Chet Porter & Alison Wonderland - Bummed thrown in!)</li></ul>|[YouTube](https://youtu.be/fZqbBQmpGEA?t=88)|im not a superfan, but i think i sleep on him a bit. tried to point out some other good tracks besides Indian Summer, Moon Rider, and Lose My Mind.|
 |Fred again..|Boiler Room|1:11:44|u already know|[Youtube](https://youtu.be/c0-hvjV2A5Y)|absolute goat|
 |Four Tet|Boiler Room: Streaming from isolation|1:07:43|?? ([29:35](https://www.youtube.com/live/oXQi77eOdEY?si=d6FuCeasrSY-vOQH&t=1770))|[Youtube](https://youtu.be/c0-hvjV2A5Y)|good energetic study music. feel like i could head-bob to this in a club all night|
-
+|Camo & Krooked B2B Mefjus|BBC Radio One DnB60|1:00:01|<ul><li>Fred again..</li></ul>|[YouTube](https://youtu.be/Jwxlrcs7bng?si=ljuN6c-mVjLUoopT)|constant bangers. don't trust the video setlist description though|
 <br />
 
 
 ## 📻 radio.garden 🌍
-|Station|Location|Genre(s)|Link|thoughts|
+|Station|Location|Genre(s)|[Link](#)|thoughts|
 |-------|--------|--------|----|--------|
 |Noods|Bristol, UK|varied|<ul><li>[Radio Garden](http://radio.garden/listen/noods-radio/TdAjNy_3)</li><li>[noodsradio.com](https://noodsradio.com/)</li></ul>|-|
 |Operator Radio|Rotterdam, Netherlands|electronic, varied|<ul><li>[Radio Garden](http://radio.garden/listen/operator-radio/8Ls6E7wH)</li><li>[operator-radio.com](https://operator-radio.com/)</li></ul>|-|
@@ -103,7 +103,7 @@
 
 ## 🎈 Louis The Child - Playground Radio 🌐
 (full tracklists _with timestamps_ are in the SoundCloud description!! 🙏)
-|Episode|Weekend Track|Highlights|Link|
+|Episode|Weekend Track|Highlights|[Link](#)|
 |-------|-------------|----------|----|
 |1|Louis The Child - Shake Somethin'|<ul><li>Whethan, BROODS - Be Like You</li><li>Medasin remix of Post Malone</li><li>Flight Facilities - Stand Still (Wave Racer remix)</li></ul>|[SoundCloud](https://soundcloud.com/playground_radio/ep001)|
 |2||<ul><li></li></ul>|[SoundCloud](https://soundcloud.com/playground_radio/ep002)|
@@ -111,17 +111,19 @@
 
 
 ## Albums
-|Artist|Name|# Tracks|Highlights|Link|thoughts|
+|Artist|Name|# Tracks|Highlights|[Link](#)|thoughts|
 |------|----|--------|----------|----|--------|
 |Alison Wonderland|Loner|12|<ul><li>Something Real</li></ul>|[Spotify](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0?si=dlluewTNT-KqIvARMhdo3g)|6/10 - I haven't listened to much Alison Wonderland, but my impression is this isn't her usual sound. Eyes Closed, Thirst, Cocaine, Fear of Dying aren't great. New Day, Forever, Bad Things, Fuck U Love U are like sad girl San Holo + harder drops (idk if San Holo has that kind of hard drop) which are decent/good.|
 |Andrew Bayer|Duality|20|Midnight, Equal, DNA, No Silence|[Spotify](https://open.spotify.com/album/3DEqRNQZS7gNDTzltgC3Cf?si=JF93F7SFQnKqt5x1dBTUHQ)|7/10 - Andrew Bayer has such a unique sound/style. Jumping back and forth between atmospheric ambient soundscapes and 'hands-raised-in-love' dancy beats, these tracks somehow combine both industrial synths and hauntingly beautiful vocals in a way that isn't jarring. Not as good as In My Last Life (where every song is a *\*chef kiss\**), but the handful of highlights here are great.|
 |Andrew Bayer|Live from ABGT500|11|Midnight, Equal|[Spotify](https://open.spotify.com/album/0S4JU55q7sUSkgw4dwe4Tn?si=9NA296nSRo-bGsspww0CSg)|8/10 - Andrew Bayer is great at mixing himself. This is music festival dancy/jumpy while still keeping a sense of the original.|
 |Kendrick Lamar|To Pimp A Butterfly|16|-|[Spotify](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP?si=wJpcuZvNRfuoSoTySYWj9Q)|Finally listened to this last month. It's more than music - it's history, politics, storytelling, self-reflection, and more wrapped into one amazing work of art.|
+|Protection|SEEDS I|5|-|[Spotify](https://open.spotify.com/album/24aLYsXLcxO1z2a5MtlQfg?si=W5XlGhZGRV2dCShsD1_oVA)|This is a duo collaboration between Iain Cook of CHVRCHES and somebody else. Short, cool little digital vocal blip bloop EPs ranging from DnB to trance|
+|Protection|SEEDS II|5|Highlights|[Spotify](https://open.spotify.com/album/0Jb98p6EvBD3EkPWuyHWzH?si=aUWCjEbAR-6HjKDnuJJpsw)|^|
 <br />
 
 
 ## Songs
-|Artist|Name|Link|thoughts|
+|Artist|Name|[Link](#)|thoughts|
 |------|----|----|--------|
 |Sofi Tukker x LP Giobbi|Part Time Muse (unreleased)|[YouTube](https://youtu.be/l8bvhDyty-A?si=5yHvR37U5uM_jcv6)|get chiiills from those vocals|
 <br />
