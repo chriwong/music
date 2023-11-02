@@ -128,6 +128,18 @@
 |Sofi Tukker x LP Giobbi|Part Time Muse (unreleased)|[YouTube](https://youtu.be/l8bvhDyty-A?si=5yHvR37U5uM_jcv6)|get chiiills from those vocals|
 <br />
 
+## Vocalists
+|Name|Features|Link(s)|
+|----|--------|----|
+|Emily Makis|Pola & Bryson - Phoneline|[Spotify](https://open.spotify.com/track/5nCNItjhTUj7MqL3oFHmFc?si=53f6cc30e0f6485d)|
+|KUCKA|Flume - ESCAPE|[Spotify](https://open.spotify.com/track/2Z5nV888n3MhBs8tbdXVIw?si=02a5d4caa3e24897)|
+||IMANU - It's Our Destiny|[Spotify](https://open.spotify.com/track/3XzeNnRIlvDZ6c4OdSfifY?si=617f8fdd6e3e4a1c)|
+|Lottie Jones|Fred V - Atmosphere|[Spotify](https://open.spotify.com/track/0vTj3bXv8TcSjTez2l71qW?si=4ff71f5e4d394ab3)|
+|Becky Hill|Netsky - Hold On|[Spotify](https://open.spotify.com/track/0ZE5BVCy5xVNsI4MaQRzUn?si=089d8d028c8546d7)|
+||Chase & Status - Disconnect|[Spotify](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE?si=387374982ecc4728)|
+|Ayah Marar|Camo & Krooked - Watch It Burn|[Spotify](https://open.spotify.com/track/6x11fa9NsoHOq2x5AuL37G?si=18323cee25444bd3)|
+||Andromedik - Tomorrow|[Spotify](https://open.spotify.com/track/45t6vbzyrQlsFI3xnzevjM?si=44558452058c4c85)|
+<br />
 
 ## TODO
 * [Louis the Child - Digital Mirage Playground Set (https://www.youtube.com/watch?v=VBk2vSPh9nE)](https://www.youtube.com/watch?v=VBk2vSPh9nE)
